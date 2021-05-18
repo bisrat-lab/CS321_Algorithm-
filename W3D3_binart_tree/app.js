@@ -1,5 +1,5 @@
 const BT = require("./BinaryTree")
-const DLL = require("../../W2D3_List/DLinkedList")
+const DLL = require("../W2D3_List/DLinkedList")
 let doubleLinkedList = new DLL.DLinkedList();
 let bs = new BT.BinaryTree();
 
